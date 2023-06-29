@@ -20,7 +20,8 @@
 There is no missing and duplicate value in the dataset. Droped unnecessary columns from the dataset. Transformed 
 categorical features into numerical features using label encoding method.
 ## Exploratory Data Analysis
-![image](https://github.com/ShyamashreeGhorai1/ComparativeStudyOnDyslexiaUsingPsycho-PhysiologicalFeatures/assets/131132617/ebff00b0-7897-42d2-abcb-1fb4cff15997)
+![image](https://github.com/ShyamashreeGhorai1/ComparativeStudyOnDyslexiaUsingPsycho-PhysiologicalFeatures/assets/131132617/3f318cc1-76bc-4319-91c5-843838b36f57)
+
 
 
 ## System Training and Classification
