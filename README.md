@@ -73,6 +73,16 @@ Random Forest for phonological aswareness related featrures:
 ![Screenshot (115)](https://github.com/ShyamashreeGhorai1/ComparativeStudyOnDyslexiaUsingPsycho-PhysiologicalFeatures/assets/131132617/d512afe8-f218-4348-8594-ece2165ede85)
 
 
+## Conclusion
+Dyslexia is a learning disability that affects about 10% of the world population. It is very important to identify dyslexic
+children at an early stage. This study applied XGBoost, AdaBoost, KNN and Random Forest model to detect dyslexia using 
+different feature selection methods. Objective of this study is comparative study of different features for prediction analysis
+of Dyslexia. XGBoost model achieved 87 % of predictive accuracy with recall 74 % (using 1st feature selection method which is
+better than 2nd one). AdaBoost model achieved 90 % of predictive accuracy with 40 % recall (using 1st feature selection method
+which is better than 2nd one). KNN model achieved 90 % of predictive accuracy with recall 38 % (using 1st feature selection 
+method which is better than 2nd one). Random Forest model achieved 84 % of predictive accuracy with 62 % recall (using 1st
+feature selection method). Random Forest model achieved 88 % predictive accuracy with 47 % recall (using 2nd feature selection method).
+ 
 
 
 
