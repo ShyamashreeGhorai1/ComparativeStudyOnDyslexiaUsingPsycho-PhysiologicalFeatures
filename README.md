@@ -38,6 +38,7 @@ Observation :
 7) Average of average hits for both dyslexic male and female candidates are almost same.
 ## System Training and Classification
 Used Extreme gradient boosting, Adaptive boosting, K-nearest neighbours and Random forest for classification.
+
 Extreme gradient boosting for mutual information gain method:
 
 ![Screenshot (103)](https://github.com/ShyamashreeGhorai1/ComparativeStudyOnDyslexiaUsingPsycho-PhysiologicalFeatures/assets/131132617/be2b2934-524c-4b25-943c-89c09c53c081)
