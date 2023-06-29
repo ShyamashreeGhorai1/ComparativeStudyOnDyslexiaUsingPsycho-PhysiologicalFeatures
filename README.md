@@ -16,6 +16,14 @@
  exercises v) Accuracy, defined as the number of Hits divided by the number of Clicks (vi) Missrate, defined as
  the number of Misses divided by the number of Clicks
  Link of the dataset is : https://doi.org/10.34740/kaggle/dsv/1617514
+## Data Preparation
+There is no missing and duplicate value in the dataset. Droped unnecessary columns from the dataset. Transformed 
+categorical features into numerical features using label encoding method.
+## Exploratory Data Analysis
+![image](https://github.com/ShyamashreeGhorai1/ComparativeStudyOnDyslexiaUsingPsycho-PhysiologicalFeatures/assets/131132617/ebff00b0-7897-42d2-abcb-1fb4cff15997)
+
+
+## System Training and Classification
 
 
 
