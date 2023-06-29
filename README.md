@@ -27,7 +27,7 @@ Observation :
 2) Average hits for 13 to 17 years old person is more than average hits for 7 to 12 years old person.
 ![image](https://github.com/ShyamashreeGhorai1/ComparativeStudyOnDyslexiaUsingPsycho-PhysiologicalFeatures/assets/131132617/726752a9-abe4-4c5a-aa33-e821241ff95b)
 ![image](https://github.com/ShyamashreeGhorai1/ComparativeStudyOnDyslexiaUsingPsycho-PhysiologicalFeatures/assets/131132617/f92a71ee-6a0a-47ba-a7bf-04062411a49c)
-![image](https://github.com/ShyamashreeGhorai1/ComparativeStudyOnDyslexiaUsingPsycho-PhysiologicalFeatures/assets/131132617/391816c4-336a-45cc-bef0-ab40ec944307)
+![image](https://github.com/ShyamashreeGhorai1/ComparativeStudyOnDyslexiaUsingPsycho-PhysiologicalFeatures/assets/131132617/d6b6d3e1-38b1-4696-a0aa-c36b304ae302)
 ![image](https://github.com/ShyamashreeGhorai1/ComparativeStudyOnDyslexiaUsingPsycho-PhysiologicalFeatures/assets/131132617/ccd750e5-20e0-432b-aa2b-f0c3c1330a2c)
 ![image](https://github.com/ShyamashreeGhorai1/ComparativeStudyOnDyslexiaUsingPsycho-PhysiologicalFeatures/assets/131132617/cb1eaf77-0325-45f4-b485-69412cbdb2e5)
 Observation :
