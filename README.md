@@ -39,20 +39,36 @@ Observation :
 ## System Training and Classification
 Used Extreme gradient boosting, Adaptive boosting, K-nearest neighbours and Random forest for classification.
 Extreme gradient boosting for mutual information gain method:
+
 ![Screenshot (103)](https://github.com/ShyamashreeGhorai1/ComparativeStudyOnDyslexiaUsingPsycho-PhysiologicalFeatures/assets/131132617/be2b2934-524c-4b25-943c-89c09c53c081)
+
 Extreme gradient boosting for phonological aswareness related featrures:
-![image](https://github.com/ShyamashreeGhorai1/ComparativeStudyOnDyslexiaUsingPsycho-PhysiologicalFeatures/assets/131132617/579f67c7-b98a-41bb-9e7a-f94f62de3a29)
+
+![Screenshot (118)](https://github.com/ShyamashreeGhorai1/ComparativeStudyOnDyslexiaUsingPsycho-PhysiologicalFeatures/assets/131132617/d368b489-8379-4d02-bc54-37424f1e82db)
+
+
 Adaptive boosting for mutual information gain method:
+
 ![Screenshot (107)](https://github.com/ShyamashreeGhorai1/ComparativeStudyOnDyslexiaUsingPsycho-PhysiologicalFeatures/assets/131132617/a928a859-83c4-499c-a78a-90e8d75ae471)
+
 Adaptive boosting for phonological aswareness related featrures:
+
 ![Screenshot (109)](https://github.com/ShyamashreeGhorai1/ComparativeStudyOnDyslexiaUsingPsycho-PhysiologicalFeatures/assets/131132617/1e7ac447-1643-429d-ac99-897c43413e30)
+
 KNN for mutual information gain method:
+
 ![Screenshot (111)](https://github.com/ShyamashreeGhorai1/ComparativeStudyOnDyslexiaUsingPsycho-PhysiologicalFeatures/assets/131132617/58ebea89-1b9a-4eb0-b66c-ad9c84494571)
+
 KNN for phonological aswareness related featrures:
+
 ![Screenshot (113)](https://github.com/ShyamashreeGhorai1/ComparativeStudyOnDyslexiaUsingPsycho-PhysiologicalFeatures/assets/131132617/32830860-af90-46a4-a837-5066049798ee)
+
 Random Forest for mutual information gain method:
+
 ![Screenshot (117)](https://github.com/ShyamashreeGhorai1/ComparativeStudyOnDyslexiaUsingPsycho-PhysiologicalFeatures/assets/131132617/09754fff-2368-4eb0-b8ca-e99701aac27c)
+
 Random Forest for phonological aswareness related featrures:
+
 ![Screenshot (115)](https://github.com/ShyamashreeGhorai1/ComparativeStudyOnDyslexiaUsingPsycho-PhysiologicalFeatures/assets/131132617/d512afe8-f218-4348-8594-ece2165ede85)
 
 
