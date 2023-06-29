@@ -21,10 +21,56 @@ There is no missing and duplicate value in the dataset. Droped unnecessary colum
 categorical features into numerical features using label encoding method.
 ## Exploratory Data Analysis
 ![image](https://github.com/ShyamashreeGhorai1/ComparativeStudyOnDyslexiaUsingPsycho-PhysiologicalFeatures/assets/131132617/3f318cc1-76bc-4319-91c5-843838b36f57)
-
-
-
+![image](https://github.com/ShyamashreeGhorai1/ComparativeStudyOnDyslexiaUsingPsycho-PhysiologicalFeatures/assets/131132617/83a84642-d796-4e55-beed-789853ed3b91)
+Observation : 
+1) Average hits of non-dyslexic person is more than average hits of dyslexic person.
+2) Average hits for 13 to 17 years old person is more than average hits for 7 to 12 years old person.
+![image](https://github.com/ShyamashreeGhorai1/ComparativeStudyOnDyslexiaUsingPsycho-PhysiologicalFeatures/assets/131132617/726752a9-abe4-4c5a-aa33-e821241ff95b)
+![image](https://github.com/ShyamashreeGhorai1/ComparativeStudyOnDyslexiaUsingPsycho-PhysiologicalFeatures/assets/131132617/f92a71ee-6a0a-47ba-a7bf-04062411a49c)
+![image](https://github.com/ShyamashreeGhorai1/ComparativeStudyOnDyslexiaUsingPsycho-PhysiologicalFeatures/assets/131132617/391816c4-336a-45cc-bef0-ab40ec944307)
+![image](https://github.com/ShyamashreeGhorai1/ComparativeStudyOnDyslexiaUsingPsycho-PhysiologicalFeatures/assets/131132617/ccd750e5-20e0-432b-aa2b-f0c3c1330a2c)
+![image](https://github.com/ShyamashreeGhorai1/ComparativeStudyOnDyslexiaUsingPsycho-PhysiologicalFeatures/assets/131132617/cb1eaf77-0325-45f4-b485-69412cbdb2e5)
+Observation :
+3) For dyslexic male candidate average of average accuracy is more than half of its value ( i.e, 5 with respect to 10) and for dyslexic female candidate average of average accuracy is less than half of its value.
+4) For dyslexic male candidate average of average misses is more than 1 and for dyslexic female candidate average of average misses is less than 1.
+5) Average of average missrate for dyslexic male candidate is almost double than the value of average of average missrate for dyslexic female candidate.
+6) Average of average score for both dyslexic male and female candidates are same.
+7) Average of average hits for both dyslexic male and female candidates are almost same.
 ## System Training and Classification
+Used Extreme gradient boosting, Adaptive boosting, K-nearest neighbours and Random forest for classification.
+Extreme gradient boosting for mutual information gain method:
+![Screenshot (103)](https://github.com/ShyamashreeGhorai1/ComparativeStudyOnDyslexiaUsingPsycho-PhysiologicalFeatures/assets/131132617/be2b2934-524c-4b25-943c-89c09c53c081)
+Extreme gradient boosting for phonological aswareness related featrures:
+![image](https://github.com/ShyamashreeGhorai1/ComparativeStudyOnDyslexiaUsingPsycho-PhysiologicalFeatures/assets/131132617/579f67c7-b98a-41bb-9e7a-f94f62de3a29)
+Adaptive boosting for mutual information gain method:
+![Screenshot (107)](https://github.com/ShyamashreeGhorai1/ComparativeStudyOnDyslexiaUsingPsycho-PhysiologicalFeatures/assets/131132617/a928a859-83c4-499c-a78a-90e8d75ae471)
+Adaptive boosting for phonological aswareness related featrures:
+![Screenshot (109)](https://github.com/ShyamashreeGhorai1/ComparativeStudyOnDyslexiaUsingPsycho-PhysiologicalFeatures/assets/131132617/1e7ac447-1643-429d-ac99-897c43413e30)
+KNN for mutual information gain method:
+![Screenshot (111)](https://github.com/ShyamashreeGhorai1/ComparativeStudyOnDyslexiaUsingPsycho-PhysiologicalFeatures/assets/131132617/58ebea89-1b9a-4eb0-b66c-ad9c84494571)
+KNN for phonological aswareness related featrures:
+![Screenshot (113)](https://github.com/ShyamashreeGhorai1/ComparativeStudyOnDyslexiaUsingPsycho-PhysiologicalFeatures/assets/131132617/32830860-af90-46a4-a837-5066049798ee)
+Random Forest for mutual information gain method:
+![Screenshot (117)](https://github.com/ShyamashreeGhorai1/ComparativeStudyOnDyslexiaUsingPsycho-PhysiologicalFeatures/assets/131132617/09754fff-2368-4eb0-b8ca-e99701aac27c)
+Random Forest for phonological aswareness related featrures:
+![Screenshot (115)](https://github.com/ShyamashreeGhorai1/ComparativeStudyOnDyslexiaUsingPsycho-PhysiologicalFeatures/assets/131132617/d512afe8-f218-4348-8594-ece2165ede85)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
